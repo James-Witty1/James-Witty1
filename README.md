@@ -3,9 +3,9 @@ Hi! 👋 I'm James Witty
 I'm a Cybersecurity and Business major at Northeastern University, very passionate about digital/physical security and cyber risk management. 
 
 - 📫 How to reach me:
-        C: +1 331-231-9210
-        E: witty.j@northeastern.edu
-        https://www.linkedin.com/in/james-witty
+        - C: +1 331-231-9210
+        - E: witty.j@northeastern.edu
+        - https://www.linkedin.com/in/james-witty
 -----
 ### Interests
 

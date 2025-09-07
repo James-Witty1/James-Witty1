@@ -2,18 +2,14 @@ Hi! 👋 I'm James Witty
 
 I'm a Cybersecurity and Business major at Northeastern University, very passionate about digital/physical security and cyber risk management. 
 
-- 📫 How to reach me:
-        C: +1 331-231-9210 | 
-        E: witty.j@northeastern.edu | 
-        https://www.linkedin.com/in/james-witty
 -----
 ### Interests
 
-* Cyber Risk Management
-* Open Source Intelligence
-* Social Engineering
-* Pentesting
-* Stock Market Finances
+**Cyber Risk Management**: Identifying, prioritizing, and mitigating threats and vulnerabilities.
+**Open Source Intelligence (OSINT)**: Leveraging publicly available data to answer specific questions.
+**Social Engineering**: Studying how attackers manipulate people into disclosing sensitive information.
+**Penetration Testing (Pentesting)**: Finding and exploiting security vulnerabilities to strengthen defenses.
+**Financial Markets**: Exploring factors behind stock price changes and their impact on people.
 
 -----
 ### About Me
@@ -23,5 +19,10 @@ I'm a Cybersecurity and Business major at Northeastern University, very passiona
 - 🖥️ From playing Minecraft on my dad’s computer when I was a little kid to later building PCs for fun, I’ve always been passionate about technology. After seeing how scams and attacks can harm people, I became determined to help secure the digital world and make it safer for everyone.
 - 🌅 Fun Fact: I love motorcycling and enjoying the outdoors, like surfing, skiing, and hiking. When I'm not outdoors, I have a huge passion for cyber and the digital realm.
 
+-----
+### 🔗 Let's Connect
 
+**Github**: https://github.com/James-Witty1
+**Email**: witty.j@northeastern.edu 
+**Linkedin**: https://www.linkedin.com/in/james-witty
 

@@ -22,7 +22,7 @@ I'm a Cybersecurity and Business major at Northeastern University, very passiona
 -----
 ### 🔗 Let's Connect
 
-**Github**: https://github.com/James-Witty1
-**Email**: witty.j@northeastern.edu 
-**Linkedin**: https://www.linkedin.com/in/james-witty
+- **Github**: https://github.com/James-Witty1
+- **Email**: witty.j@northeastern.edu 
+- **Linkedin**: https://www.linkedin.com/in/james-witty
 

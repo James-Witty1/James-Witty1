@@ -5,11 +5,11 @@ I'm a Cybersecurity and Business major at Northeastern University, very passiona
 -----
 ### Interests
 
-**Cyber Risk Management**: Identifying, prioritizing, and mitigating threats and vulnerabilities.
-**Open Source Intelligence**: Leveraging publicly available data to answer specific questions.
-**Social Engineering**: Studying how attackers manipulate people into disclosing sensitive information.
-**Penetration Testing**: Finding and exploiting security vulnerabilities to strengthen defenses.
-**Financial Markets**: Exploring factors behind stock price changes and their impact on people.
+- **Cyber Risk Management**: Identifying, prioritizing, and mitigating threats and vulnerabilities.
+- **Open Source Intelligence**: Leveraging publicly available data to answer specific questions.
+- **Social Engineering**: Studying how attackers manipulate people into disclosing sensitive information.
+- **Penetration Testing**: Finding and exploiting security vulnerabilities to strengthen defenses.
+- **Financial Markets**: Exploring factors behind stock price changes and their impact on people.
 
 -----
 ### About Me

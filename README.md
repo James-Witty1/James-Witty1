@@ -20,6 +20,13 @@ I'm a Cybersecurity and Business major at Northeastern University, very passiona
 - 🌅 Fun Fact: I love motorcycling and enjoying the outdoors, like surfing, skiing, and hiking. When I'm not outdoors, I have a huge passion for cyber and the digital realm.
 
 -----
+### Projects and Competitions
+- **Java Swing Game Hub**: Developed a multi-game desktop application for Tic-Tac-Toe, Pong, Snake, and Connect Four.
+- **Correlation One & DoD CTF**: Placed 17/2,100+ competitors, demonstrating
+strong proficiency in threat analysis, OSINT, problem-solving, cryptography, and more.
+- **DEFCON 29 & DEFCON 31**: Participated in global, multi-disciplinary cybersecurity competitions featuring challenges in many different topics.
+
+-----
 ### 🔗 Let's Connect
 
 - **Github**: https://github.com/James-Witty1

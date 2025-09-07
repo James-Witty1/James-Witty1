@@ -11,7 +11,8 @@ I'm a Cybersecurity and Business major at Northeastern University, very passiona
 * Pentesting
 * Stock Market Finances
 
-
+-----
+### About Me
 - 😄 Pronouns: he/him
 - 📫 How to reach me: C: +1 331-231-9210 E: witty.j@northeastern.edu
 - 🔐 I’m currently working on getting my CompTIA Security+ Certification, and plan to take and pass the test by the end of October.

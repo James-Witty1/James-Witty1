@@ -21,7 +21,7 @@ I'm a Cybersecurity and Business major at Northeastern University, very passiona
 
 -----
 ### Projects and Competitions
-- **Java Swing Game Hub**: Developed a multi-game desktop application for Tic-Tac-Toe, Pong, Snake, and Connect Four.
+- **Classic Game Suite**: Developed a multi-game desktop application for Tic-Tac-Toe, Pong, Snake, and Connect Four.
 - **Hashcat Password Cracking**: Cracked 49/50 passwords of varying difficulties using a variety of cracking strategies over a four week period.
 - **Correlation One & DoD CTF**: Placed 17/2,100+ competitors, demonstrating
 strong proficiency in threat analysis, OSINT, problem-solving, cryptography, and more.
